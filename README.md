@@ -13,3 +13,5 @@ As of this writing (_Sat, Oct 12, 2019_) we are due to meet again Sat, Oct 19, 7
 Get to the part in the book that covers Importing and Normalizing
 
 Please visit our Resource Links page for the CodeBuddies Hangout link for our group as well as a number of other resources to help you in this journy through _A Curious Moon_!
+
+Before we meet again, please go to this page and edit so you can add what you would like to discuss! : )

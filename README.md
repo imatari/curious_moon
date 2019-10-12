@@ -14,4 +14,4 @@ Get to the part in the book that covers Importing and Normalizing
 
 Please visit our [Resource Links](resource-links.md) page for the CodeBuddies Hangout link for our group as well as a number of other resources to help you in this journy through _A Curious Moon_!
 
-Before we meet again, please go to this page and edit so you can add what you would like to discuss! : )
+Before we meet again, please go to our [Discussion](discussion.md) page and edit so you can add what you would like to discuss! : )

@@ -12,6 +12,10 @@ _for example_
 - Matari  
 How do I run the `build.sql` file against the enceladus database?  
 
-**_note:_** Because this is a Markdown file please hit the space bar twice before you hit enter so that your newline really becomes a newline : ) 
+**_notes:_**  
+- Because this is a Markdown file please hit the space bar twice before you hit enter -_at the end of a line_- so that your newline really becomes a newline : )
+- To edit, look for the `pencil` icon to the right of the `[Raw|Blame|History]` buttons in the upper-right and click it!
+- Once you are in edit mode, add your entry after the `<hr>` tag
+- When you're ready to save, scroll to the bottom of the page and click the `Commit changes` button. That's it! : ) 
 <hr>
 

@@ -1,4 +1,4 @@
-# curious_moon
+# A Curious Moon
 ### A shared space for notes on where we are going as we journey through the book _A Curious Moon_ by Rob Conery
 <hr>
 If you're reading this then it seems you may have decided to join us in our journey.  

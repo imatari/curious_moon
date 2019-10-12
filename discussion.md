@@ -8,7 +8,7 @@ Please share what you would like to discuss in our next group meeting! : )
 
 Whatever you'd like to discuss, please add your name to this page and right under it, what you would like to talk about.
 
-_for example_
+**_for example_**
 - Matari  
 How do I run the `build.sql` file against the enceladus database?  
 

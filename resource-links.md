@@ -8,8 +8,6 @@
         https://vimeo.com/247734637
         - where you can purchase the book
         https://bigmachine.io/products/a-curious-moon
-        - Link to the book  
-        https://drive.google.com/drive/folders/1J5XgdYPa7DGCKCXk0gNhemQ3vP28hcoE?usp=sharing
         - code from the book  
         https://github.com/red-4/curious-moon
     - **Resources**

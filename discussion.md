@@ -4,7 +4,8 @@ Maybe you were able to figure it out on your own and would like to share how you
 
 Please share what you would like to discuss in our next group meeting! : ) 
 
-**for our next meeting:** our goal is to cover Importing and Normalizing
+## **for our next meeting:**  
+- Our goal is to cover Importing and Normalizing
 
 Whatever you'd like to discuss, please add your name to this page and right under it, what you would like to talk about.
 

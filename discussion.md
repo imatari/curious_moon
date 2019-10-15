@@ -20,3 +20,6 @@ How do I run the `build.sql` file against the enceladus database?
 - When you're ready to save, scroll to the bottom of the page and click the `Commit changes` button. That's it! : ) 
 <hr>
 
+## Items for Discussion  
+- Matari  
+  - _for sharing:_ Figured out my persistant storage problem!  

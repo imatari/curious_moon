@@ -23,5 +23,5 @@ How do I run the `build.sql` file against the enceladus database?
 ## Items for Discussion  
 - Matari  
   - _for sharing:_ 
-    - Figured out my persistant storage problem!  
+    - Figured out my persistent storage problem!  
     - Solved my UTC Zero problem by making an image from a modified container!

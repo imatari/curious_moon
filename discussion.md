@@ -11,21 +11,6 @@ Whatever you'd like to discuss, please add your name to this page and right unde
 
 **_for example_**
 - Matari  
-How do I run the `build.sql` file against the enceladus database?
-- Bethany  
-Make files, variables, and environment variables.
-
-
-
-**_notes:_**  
-- Because this is a Markdown file please hit the space bar twice before you hit enter -_at the end of a line_- so that your newline really becomes a newline : )
-- To edit, look for the `pencil` icon to the right of the `[Raw|Blame|History]` buttons in the upper-right and click it!
-- Once you are in edit mode, add your entry after the `<hr>` tag
-- When you're ready to save, scroll to the bottom of the page and click the `Commit changes` button. That's it! : ) 
-<hr>
-
-## Items for Discussion  
-- Matari  
   - _for sharing:_ 
     - Figured out my persistent storage problem!  
     - Solved my UTC Zero problem by making an image from a modified container!
@@ -35,3 +20,15 @@ Make files, variables, and environment variables.
      - `\x` ...my new favorite mode in psql
      - _OMG_ dbs can do regex!
      - WTF Sargeable?!?!
+
+**_notes:_**  
+- Because this is a Markdown file please hit the space bar twice before you hit enter -_at the end of a line_- so that your newline really becomes a newline : )
+- To edit, look for the `pencil` icon to the right of the `[Raw|Blame|History]` buttons in the upper-right and click it!
+- Once you are in edit mode, add your entry after the `<hr>` tag
+- When you're ready to save, scroll to the bottom of the page and click the `Commit changes` button. That's it! : ) 
+<hr>
+
+## Items for Discussion  
+
+
+

@@ -12,7 +12,7 @@ Whatever you'd like to discuss, please add your name to this page and right unde
 **_for example_**
 - Matari  
 How do I run the `build.sql` file against the enceladus database?
-- Bethany
+- Bethany  
 Make files, variables, and environment variables.
 
 

@@ -10,7 +10,8 @@ Our goal is to read a portion of the book through the week and meet in our CodeB
 As of this writing (_Sat, Oct 12, 2019_) we are due to meet again Sat, Oct 19, 7:00 AM PDT (_UTC-7_)
 
 **Goal for next meeting**  
-Get to the part in the book that covers Importing and Normalizing
+Complete 'Flyby' section and cover as much as we can in 'A Bent Field'.  
+![A Bent Field](https://imgur.com/a/gjkAMbc)
 
 Please visit our [Resource Links](resource-links.md) page for the CodeBuddies Hangout link for our group as well as a number of other resources to help you in this journey through _A Curious Moon_!
 

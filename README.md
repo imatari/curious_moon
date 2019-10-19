@@ -11,7 +11,7 @@ As of this writing (_Sat, Oct 12, 2019_) we are due to meet again Sat, Oct 19, 7
 
 **Goal for next meeting**  
 Complete 'Flyby' section and cover as much as we can in 'A Bent Field'.  
-![A Bent Field](https://imgur.com/a/gjkAMbc)
+![A Bent Field](https://i.imgur.com/eaavdVU.png)
 
 Please visit our [Resource Links](resource-links.md) page for the CodeBuddies Hangout link for our group as well as a number of other resources to help you in this journey through _A Curious Moon_!
 

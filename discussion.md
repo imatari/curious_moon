@@ -11,7 +11,11 @@ Whatever you'd like to discuss, please add your name to this page and right unde
 
 **_for example_**
 - Matari  
-How do I run the `build.sql` file against the enceladus database?  
+How do I run the `build.sql` file against the enceladus database?
+- Bethany
+Make files, variables, and environment variables.
+
+
 
 **_notes:_**  
 - Because this is a Markdown file please hit the space bar twice before you hit enter -_at the end of a line_- so that your newline really becomes a newline : )
@@ -25,3 +29,9 @@ How do I run the `build.sql` file against the enceladus database?
   - _for sharing:_ 
     - Figured out my persistent storage problem!  
     - Solved my UTC Zero problem by making an image from a modified container!
+ - Bethany
+   - _for sharing:_
+     - cat in the Make file and my workaround
+     - `\x` ...my new favorite mode in psql
+     - _OMG_ dbs can do regex!
+     - WTF Sargeable?!?!

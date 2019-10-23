@@ -31,7 +31,7 @@ Whatever you'd like to discuss, please add your name to this page and right unde
 ## Items for Discussion  
 - Matari
   - _for sharing_
-    - A reminder that the Linux used in the Docker Postgres container is bare bones. There is no
+    - A reminder that the Linux used in the Docker Postgres image is bare bones. There is no
       - Make
       - sudo
       - Vim

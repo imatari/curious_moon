@@ -36,5 +36,7 @@ Whatever you'd like to discuss, please add your name to this page and right unde
       - sudo
       - Vim
       - Nano
+  - _i need help_
+    - would like to understand better the aggregate query on the bottom of page 113
 
 

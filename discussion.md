@@ -12,9 +12,15 @@ Whatever you'd like to discuss, please add your name to this page and right unde
 **_for example_**
 - Matari  
   - _for sharing:_ 
-    - Figured out my persistent storage problem!  
-    - Solved my UTC Zero problem by making an image from a modified container!
- - Bethany
+    - A reminder that the Linux used in the Docker Postgres image is bare bones. There is no
+      - Make
+      - sudo
+      - Vim
+      - Nano
+  - _questions_
+    - would like to understand better the aggregate query on the bottom of page 113
+
+- Bethany
    - _for sharing:_
      - cat in the Make file and my workaround
      - `\x` ...my new favorite mode in psql
@@ -29,14 +35,6 @@ Whatever you'd like to discuss, please add your name to this page and right unde
 <hr>
 
 ## Items for Discussion  
-- Matari
-  - _for sharing_
-    - A reminder that the Linux used in the Docker Postgres image is bare bones. There is no
-      - Make
-      - sudo
-      - Vim
-      - Nano
-  - _i need help_
-    - would like to understand better the aggregate query on the bottom of page 113
+
 
 
